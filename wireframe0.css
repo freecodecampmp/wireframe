@@ -1,0 +1,39 @@
+h2 {
+  display: inline-block;
+  margin: 12px 6% 12px 6%;
+}
+.section {
+  color: rgba(0,0,0,100);
+  background-color: lightgreen;
+  display: inline-block;
+  text-align: center;
+  height: 120px;
+  width: 40%;
+  padding-top: 30px
+}
+.resume {
+  background: orange;
+  display: inline-block;
+  height: 120px;
+  padding-top: 12px;
+  margin-left: 20px
+}
+#press {
+  background: red;
+  margin-left: 16%
+}
+.about {
+  background-color: darkgreen;
+}
+.project {
+  background-color: turquoise;
+  height: 20px
+}
+.list {
+  background-color: lightblue;
+  height: 3%;
+}
+a {
+  text-decoration: none;
+  color: blue
+}
